@@ -8,11 +8,8 @@ class Home extends StatelessWidget {
         title: Text('Long Press to Copy'),
       ),
       body: Center(
-        child: Padding(
-          padding: const EdgeInsets.all(8.0),
-          child: Column(
-            children: [],
-          ),
+        child: Column(
+          children: [],
         ),
       ),
     );
